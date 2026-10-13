@@ -8,8 +8,8 @@ body {
 
 header {
   background: #24292e;
-  color: white;
-  padding: 20px;
+  color: black;
+  padding: 25px;
   text-align: center;
 }
 
@@ -22,7 +22,7 @@ nav a {
 
 main {
   max-width: 800px;
-  margin: 40px auto;
+  margin: 45px auto;
   background: white;
   padding: 30px;
   border-radius: 8px;
